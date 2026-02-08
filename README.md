@@ -37,7 +37,7 @@ Long lead-time bookings show a higher cancellation rate compared to short lead-t
 ### 2️⃣ Deposit Type vs Cancellation
 Bookings without a deposit have the highest cancellation risk, while deposit policies help protect revenue.
 
-![Deposit vs Cancellation](images/deposit_vs_cancellation.png)
+![Deposit vs Cancellation](images/deposit_vs_Cancellation.png)
 
 ---
 
@@ -59,3 +59,4 @@ Cancellation rates remain stable across low–mid prices and decrease for very h
 Cancellation behavior shows clear seasonal patterns, with higher risk during mid-year months.
 
 ![Seasonality](images/seasonality_cancellation.png)
+
